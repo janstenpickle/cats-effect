@@ -88,6 +88,7 @@ These are some of the projects that provide high-level functions on top of `cats
 | [Odin](https://github.com/valskalla/odin) | Fast & Functional logger with own logging backend |
 | [cats-effect-testing](https://github.com/djspiewak/cats-effect-testing) | Experimental integration between cats-effect and testing frameworks |
 | [graphite4s](https://github.com/YannMoisan/graphite4s) | lightweight graphite client |
+| [trace4cats](https://github.com/janstenpickle/trace4cats) | Distributed tracing library and system written using cats and cats-effect primitives |
 
 ## Development
 
